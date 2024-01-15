@@ -1,16 +1,7 @@
-# demo
-
-A new Flutter project.
+# CoinTracker
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240115-214706](https://github.com/shreyansh2118/CoinTracker/assets/111567940/05ac215b-7992-4c7a-bad6-b07684c0f6e8)
+![Screenshot_20240115-214737](https://github.com/shreyansh2118/CoinTracker/assets/111567940/a19d8d52-cd6b-41a2-9600-4927ca73196f)
